@@ -8,7 +8,7 @@ Codding exercise
 STEPS TO RUN THIS PROJECT:
 	Create java project into eclipse
 	Please  java file (CSVRead.java and RequiredList.java) inside package “com.globallogic.exercise”
-	Place CSV file at suitable path and filename.	
+	Place CSV file at suitable path and filename do required changes inside RequiredList.java .	
                   String path ="C:\\Users\\Deepak\\Desktop\\Exercise";
 			String fileName="data.csv";]
 	For Junit test :Create “Testfolder” package named “test”  place GetrequiredListTest.java
